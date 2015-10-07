@@ -1,0 +1,18 @@
+2015-10-06T21:09:47.027658000 0.242875s notice: Recursively removing directory /Users/philomely/develope/node/GameServer/rethinkdb_data/tmp
+2015-10-06T21:09:47.032081000 0.247303s notice: Initializing directory /Users/philomely/develope/node/GameServer/rethinkdb_data
+2015-10-06T21:09:47.032245000 0.247461s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/philomely/develope/node/GameServer/rethinkdb_data' did not already exist or is empty.)
+2015-10-06T21:09:47.032298000 0.247513s notice: Running rethinkdb 2.1.4 (CLANG 4.2 (clang-425.0.28))...
+2015-10-06T21:09:47.049719000 0.264936s notice: Running on Darwin 15.0.0 x86_64
+2015-10-06T21:09:47.049808000 0.265023s notice: Loading data from directory /Users/philomely/develope/node/GameServer/rethinkdb_data
+2015-10-06T21:09:47.442900000 0.658163s info: Automatically using cache size of 100 MB
+2015-10-06T21:09:47.442913000 0.658174s warn: Cache size is larger than available memory.
+2015-10-06T21:09:47.442919000 0.658180s warn: Cache size is very low and may impact performance.
+2015-10-06T21:09:47.448190000 0.663453s notice: Listening for intracluster connections on port 29015
+2015-10-06T21:09:47.467270000 0.682532s notice: Listening for client driver connections on port 28015
+2015-10-06T21:09:47.467538000 0.682801s notice: Listening for administrative HTTP connections on port 8080
+2015-10-06T21:09:47.467550000 0.682812s notice: Listening on addresses: 127.0.0.1, ::1
+2015-10-06T21:09:47.467552000 0.682814s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-10-06T21:09:47.467558000 0.682819s notice: Server ready, "myAir_local_og4" aebe39e8-47f9-4b6e-8fec-5cb11a93d45d
+2015-10-06T21:58:43.169635000 2936.474725s info: Table 9369b371-1039-4077-a5b3-1cfd1fa8af6f: Added replica on this server.
+2015-10-06T21:58:44.465141000 2937.770262s info: Table 9369b371-1039-4077-a5b3-1cfd1fa8af6f: Starting a new Raft election for term 1.
+2015-10-06T21:58:44.481305000 2937.786426s info: Table 9369b371-1039-4077-a5b3-1cfd1fa8af6f: This server is Raft leader for term 1. Latest log index is 0.

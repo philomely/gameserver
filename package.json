@@ -1,0 +1,16 @@
+{
+  "name": "gameserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "rethinkdb": "^2.1.1",
+    "bluebird": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "aaron",
+  "license": "ISC"
+}
